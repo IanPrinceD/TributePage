@@ -1,0 +1,45 @@
+body{
+ background-color: #fef6e1;
+}
+
+h1{
+ text-align: center;
+ font-size: 30px;
+ background-color: #8b666e;
+}
+
+img{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 200px;
+ height: 250px;
+ border-radius: 50%;
+}
+
+figcaption{
+ text-align: center;
+ margin: 10px auto 20px;
+ font-size: 12px;
+}
+
+p{
+ margin-top: 0px;
+ margin-left: 100px;
+ margin-right: 100px;
+}
+
+.container{
+ text-align: center;
+}
+
+button{
+ font-size: 20px;
+ border-radius: 25px;
+ background-color: #Fccfd2;
+}
+
+a{
+ text-decoration: none;
+ color: black;
+}
